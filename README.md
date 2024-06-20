@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy David Pérez</h1>
 <h3 align="center">Un apasionado desarrollador web de Chile</h3>
 
-- 🔭 Soy Licenciado en Artes Plásticas de la Universidad de Concepción y hace un par de años dí un giro de 360° y comencé el camino de la programación realizando un bootcamp de desarrollo web front-end para luego seguir complementando mis conocimientos de manera autodidacta.
+- 🔭 Soy Licenciado en Artes Plásticas de la Universidad de Concepción, vivo en la ciudad de Calama en la maravillosa región de Antofagasta y hace un par de años quise dar un giro de 360° en lo laboral y comencé el camino de la programación realizando un bootcamp de desarrollo web front-end para luego seguir complementando mis conocimientos de manera autodidacta.
 
 - ⚡ Siempre estoy explorando y aprendiendo constantemente nuevas tecnologías tanto de front-end como de back-end y también de servicios de computación en la nube como Amazon Web Services.
 
